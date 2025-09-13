@@ -1,3 +1,4 @@
+
 package com.example.subscription;
 
 import org.springframework.boot.SpringApplication;
@@ -9,7 +10,6 @@ public class SubscriptionManagementApplication {
         SpringApplication.run(SubscriptionManagementApplication.class, args);
     }
 }
-
 
 
 
